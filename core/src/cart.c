@@ -169,3 +169,13 @@ bool cart_load(const char* cart)
 
     return true;
 }
+
+u8 cart_read(u16 address)
+{
+    return 0;
+}
+
+void cart_write(u16 address, u8 value)
+{
+
+}
