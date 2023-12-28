@@ -1,4 +1,5 @@
 #include "gbemu/bus.h"
+#include "gbemu/cart.h"
 
 /*
 	Memory Map
